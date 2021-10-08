@@ -1,0 +1,192 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600:normal:500:300&display=swap");
+*,
+*::before,
+*::after {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+:focus,
+:active {
+	outline: none;
+}
+a:focus,
+a:active {
+	outline: none;
+}
+nav,
+footer,
+header,
+aside {
+	display: block;
+}
+html,
+body {
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+}
+input,
+button,
+textarea {
+	font-family: inherit;
+}
+
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+li {
+	list-style: none;
+}
+img {
+	vertical-align: top;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-size: inherit;
+	font-weight: inherit;
+}
+.wrapper {
+}
+.bloc {
+	width: 850px;
+	margin: 0 auto;
+	height: 100px;
+}
+
+.bloc__header {
+}
+
+.logo {
+	color: #4b4b4b;
+	text-transform: uppercase;
+	height: 17px;
+
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 24px;
+	letter-spacing: 2.5px;
+}
+
+.text {
+	width: 530px;
+
+	color: #02133c;
+	margin: 19px 0px;
+	font-family: Roboto;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 900;
+	line-height: 42px;
+}
+.subtext {
+	margin: 0px 0px 50px 0px;
+	color: #4b4b4b;
+	font-family: Roboto;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 24px;
+}
+.header__img {
+	height: 420px;
+	width: 846px;
+}
+
+.bloc__bloc {
+	margin: 0px 0px 30px 0px;
+	width: 340px;
+	height: 340px;
+	padding: 50px;
+	background: #f5f5f5;
+	text-align: center;
+}
+
+.img1 {
+}
+.glav__text {
+	margin: 33px 0px 20px 0px;
+	font-family: Roboto;
+	font-size: 19px;
+	font-style: normal;
+	font-weight: 900;
+	line-height: 26px;
+}
+.glav__subtext {
+	font-family: Roboto;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 24px;
+}
+.bloc__dz2 {
+	width: 1100px;
+}
+
+.logo__dz2 {
+	margin: 0px 0px 22px 0px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 32px;
+	line-height: 48px;
+}
+
+.sub-logo {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 36px;
+}
+
+.osnov__text {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 26px;
+}
+
+.sub__ocnov-text {
+	margin: 20px 0px 20px 0px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 16px;
+	line-height: 26px;
+}
+.bloc__vloc {
+	max-width: 420px;
+	max-height: 210px;
+}
+.head__bloca {
+	margin: 20px 0px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 44px;
+	line-height: 58px;
+}
+
+.text__bloc {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 26px;
+}
